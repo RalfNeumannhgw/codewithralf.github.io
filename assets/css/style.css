@@ -4,24 +4,13 @@
 
 
 /**
- * copyright 2022 @codewithsadee
+ * copyright 2025 @codewithralf
  */
-
-
-
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
 
 :root {
-
-  /**
-   * colors
-   */
-
-  /* gradient */
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
